@@ -71,13 +71,13 @@
   {
         "name": "Michelle Martin",
     "image": "https://images.unsplash.com/photo-1631203928493-a4e4eb2b8da1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjZ8fHRlYWNoZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
-    "description": "Professor of Art",
+    "description": "Professor of cosmetics",
     "students": 195
   },
   {
         "name": "Christopher Thompson",
     "image": "https://images.unsplash.com/photo-1613186420419-868111e7ac07?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzV8fHRlYWNoZXJ8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
-    "description": "Doctor of Linguistics",
+    "description": "Specialist of skincare",
     "students": 185
   }
 ]
